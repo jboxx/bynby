@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aae6a1626db05b1cb779dbf2b91a9f8c",
+    "content-hash": "fcb7573b1b14dcfb5c03946c2e87843e",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -3599,6 +3599,46 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-maintenance-mode/"
+        },
+        {
+            "name": "wpackagist-theme/electa",
+            "version": "1.3.06",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/electa/",
+                "reference": "1.3.06"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/electa.1.3.06.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/electa/"
+        },
+        {
+            "name": "wpackagist-theme/singl",
+            "version": "1.1.6",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/singl/",
+                "reference": "1.1.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/singl.1.1.6.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/singl/"
         },
         {
             "name": "wpackagist-theme/single-page-boxed",

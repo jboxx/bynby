@@ -15,6 +15,6 @@
 /vendor/seld/
 /vendor/symfony/
 /vendor/wp-cli/
-/vendor/WordPress/wp-admin/
-/vendor/WordPress/wp-includes/
+/vendor/WordPress/wp-admin
+/vendor/WordPress/wp-includes
 /.vagrant/
