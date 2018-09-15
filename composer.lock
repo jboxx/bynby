@@ -4,14 +4,14 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a335829e5baae4e8249ca6ced380ec9",
+    "content-hash": "05bd5ac48ba78c2591d60303419a29e1",
     "packages": [
         {
             "name": "WordPress/WordPress",
-            "version": "4.9.7",
+            "version": "4.9.8",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/WordPress/WordPress/archive/4.9.7.zip",
+                "url": "https://github.com/WordPress/WordPress/archive/4.9.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -3481,6 +3481,26 @@
             "time": "2018-03-20T16:19:27+00:00"
         },
         {
+            "name": "wpackagist-plugin/insta-flow",
+            "version": "1.0.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/insta-flow/",
+                "reference": "tags/1.0.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/insta-flow.1.0.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/insta-flow/"
+        },
+        {
             "name": "wpackagist-plugin/jetpack",
             "version": "6.5",
             "source": {
@@ -3559,6 +3579,46 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-maintenance-mode",
+            "version": "2.2.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-maintenance-mode/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-maintenance-mode.zip?timestamp=1531728264",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-maintenance-mode/"
+        },
+        {
+            "name": "wpackagist-theme/single-page-boxed",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/single-page-boxed/",
+                "reference": "1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/single-page-boxed.1.0.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/single-page-boxed/"
         }
     ],
     "packages-dev": [],

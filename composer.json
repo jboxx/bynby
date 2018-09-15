@@ -1,13 +1,13 @@
 {
-    "name": "xyu/heroku-wp",
-    "description": "A template for installing and running WordPress on Heroku",
-    "homepage": "https://github.com/xyu/heroku-wp",
+    "name": "bynby",
+    "description": "bynby project",
+    "homepage": "https://github.com/jboxx/bynby",
     "license": "MIT",
     "authors": [
         {
-            "name": "Xiao Yu",
-            "email": "me@xyu.io",
-            "homepage": "http://xyu.io",
+            "name": "Rifqi Fardi",
+            "email": "rifqifardi.dev@gmail.com",
+            "homepage": "http://jboxx.github.io",
             "role": "Developer"
         }
     ],
@@ -25,6 +25,10 @@
         "wpackagist-plugin/jetpack": "*",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
 
+        "wpackagist-plugin/insta-flow":"1.0.8",
+        "wpackagist-plugin/wp-maintenance-mode":"2.2.1",
+        "wpackagist-theme/single-page-boxed":"*",
+
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "^1.0"
     },
@@ -37,10 +41,10 @@
             "type": "package",
             "package": {
                 "name": "WordPress/WordPress",
-                "version": "4.9.7",
+                "version": "4.9.8",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/WordPress/WordPress/archive/4.9.7.zip"
+                    "url": "https://github.com/WordPress/WordPress/archive/4.9.8.zip"
                 }
             }
         },
