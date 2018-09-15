@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fcb7573b1b14dcfb5c03946c2e87843e",
+    "content-hash": "229714f8cd495f340cc6cdc8c4153c8f",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -3482,15 +3482,15 @@
         },
         {
             "name": "wpackagist-plugin/insta-flow",
-            "version": "1.0.8",
+            "version": "1.0.1.55",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/insta-flow/",
-                "reference": "tags/1.0.8"
+                "reference": "tags/1.0.1.55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/insta-flow.1.0.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/insta-flow.1.0.1.55.zip",
                 "reference": null,
                 "shasum": null
             },
