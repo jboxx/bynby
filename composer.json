@@ -27,7 +27,7 @@
 
         "wpackagist-plugin/insta-flow":"1.0.8",
         "wpackagist-plugin/wp-maintenance-mode":"2.2.1",
-        "wpackagist-theme/single-page-boxed":"*",
+        "wpackagist-theme/single-page-boxed":"1.0.1",
 
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "^1.0"
