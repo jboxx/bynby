@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "24d26687170de1073cba1a696f2c0162",
+    "content-hash": "3644a634a32d6cf90d38e467ec87f39d",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -3479,6 +3479,26 @@
             ],
             "description": "Programmatically edit a wp-config.php file.",
             "time": "2018-03-20T16:19:27+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/hide-page-and-post-title",
+            "version": "1.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/hide-page-and-post-title/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/hide-page-and-post-title.zip?timestamp=1536056834",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/hide-page-and-post-title/"
         },
         {
             "name": "wpackagist-plugin/insta-flow",
