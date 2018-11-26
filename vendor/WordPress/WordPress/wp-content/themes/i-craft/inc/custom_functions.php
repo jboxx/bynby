@@ -211,7 +211,7 @@ function icraft_import_files() {
       'import_customizer_file_url' 		=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/i-craft-agency-1.dat',
       'import_preview_image_url'     	=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/thumb-agency-1.jpg',
       'import_notice'                	=> __( 'Please make sure you have plugin "TemplatesNext ToolKit" and "Contact Form 7" installed and active before you start the import process. <br> This process involves transfer of data and media from server to server and might take some time.', 'i-craft' ),
-	  'preview_url'                		=> 'http://35.202.231.10/index.php/1635-2/',
+	  'preview_url'                		=> 'http://templatesnext.in/demos/tx-demos/index.php/1635-2/',
     ),
     array(
       'import_file_name'             	=> 'Agency 2',
@@ -220,7 +220,7 @@ function icraft_import_files() {
       'import_customizer_file_url' 		=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/i-craft-agency-2.dat',
       'import_preview_image_url'     	=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/thumb-agency-2.jpg',
       'import_notice'                	=> __( 'Please make sure you have plugin "TemplatesNext ToolKit" and "Contact Form 7" installed and active before you start the import process. <br> This process involves transfer of data and media from server to server and might take some time.', 'i-craft' ),
-	  'preview_url'                		=> 'http://35.202.231.10/index.php/agency-2-pb/',
+	  'preview_url'                		=> 'http://templatesnext.in/demos/tx-demos/index.php/agency-2-pb/',
     ),
 	
     array(
@@ -230,7 +230,7 @@ function icraft_import_files() {
       'import_customizer_file_url' 		=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/i-craft-business-1.dat',
       'import_preview_image_url'     	=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/thumb-business-1.jpg',
       'import_notice'                	=> __( 'Please make sure you have plugin "TemplatesNext ToolKit" and "Contact Form 7" installed and active before you start the import process. <br> This process involves transfer of data and media from server to server and might take some time.', 'i-craft' ),
-	  'preview_url'                		=> 'http://35.202.231.10/index.php/business-home-1-pb/',	  
+	  'preview_url'                		=> 'http://templatesnext.in/demos/tx-demos/index.php/business-home-1-pb//',	  
     ),	
 	
     array(
@@ -240,7 +240,7 @@ function icraft_import_files() {
       'import_customizer_file_url' 		=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/i-craft-fashion-shop-1.dat',
       'import_preview_image_url'     	=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/thumb-fashion-shop.jpg',
       'import_notice'                	=> __( 'Please make sure you have plugin "TemplatesNext ToolKit", "WooCommerce" and "Contact Form 7" installed and active before you start the import process. <br> This process involves transfer of data and media from server to server and might take some time.', 'i-craft' ),
-	  'preview_url'                		=> 'http://35.202.231.10/',
+	  'preview_url'                		=> 'http://templatesnext.in/demos/tx-demos/',
     ),
     array(
       'import_file_name'             	=> 'Shop Shaurya',
@@ -249,7 +249,7 @@ function icraft_import_files() {
       'import_customizer_file_url' 		=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/i-craft-shop-shaurya.dat',
       'import_preview_image_url'     	=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/thumb-shaurya.jpg',
       'import_notice'                	=> __( 'Please make sure you have plugin "TemplatesNext ToolKit", "WooCommerce" and "Contact Form 7" installed and active before you start the import process. <br> This process involves transfer of data and media from server to server and might take some time.', 'i-craft' ),
-	  'preview_url'                		=> 'http://35.202.231.10/index.php/shop-shaurya/',
+	  'preview_url'                		=> 'http://templatesnext.in/demos/tx-demos/index.php/shop-shaurya/',
     ),
 	
     array(
@@ -259,7 +259,7 @@ function icraft_import_files() {
       'import_customizer_file_url' 		=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/i-craft-18-shop.dat',
       'import_preview_image_url'     	=> 'https://raw.githubusercontent.com/TemplatesNext/i-craft-demo/master/thumb-craft-18.jpg',
       'import_notice'                	=> __( 'Please make sure you have plugin "TemplatesNext ToolKit", "WooCommerce" and "Contact Form 7" installed and active before you start the import process. <br> This process involves transfer of data and media from server to server and might take some time.', 'i-craft' ),
-	  'preview_url'                		=> 'http://35.202.231.10/index.php/shop-blank/',	  
+	  'preview_url'                		=> 'http://templatesnext.in/demos/tx-demos/index.php/shop-blank/',	  
     ),		
   );
 }
